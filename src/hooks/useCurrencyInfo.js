@@ -1,4 +1,3 @@
-/* eslint-disable no-unused-vars */
 import { useState, useEffect } from "react";
 // default rule hai hooks ka ki use ke saath likhna hai hooks ho always
 
